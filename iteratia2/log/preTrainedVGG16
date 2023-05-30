@@ -1,0 +1,37 @@
+"C:\Proiecte SSD\Python\lab11AI\venv\Scripts\python.exe" "C:\Proiecte SSD\Python\lab11AI\main.py"
+
+Optiuni
+1. Clasificare emoji
+2. Pre-antrenat pentru clasificare emotii
+3. Antrenare model pentru clasificare emotii
+Alege : 2
+Found 28709 images belonging to 7 classes.
+Found 7178 images belonging to 7 classes.
+Epoch 1/10
+897/897 [==============================] - 88s 98ms/step - loss: 1.6128 - accuracy: 0.3693
+Epoch 2/10
+897/897 [==============================] - 88s 98ms/step - loss: 1.5243 - accuracy: 0.4102
+Epoch 3/10
+897/897 [==============================] - 87s 97ms/step - loss: 1.4834 - accuracy: 0.4293
+Epoch 4/10
+897/897 [==============================] - 88s 98ms/step - loss: 1.4434 - accuracy: 0.4457
+Epoch 5/10
+897/897 [==============================] - 86s 96ms/step - loss: 1.4061 - accuracy: 0.4616
+Epoch 6/10
+897/897 [==============================] - 90s 101ms/step - loss: 1.3706 - accuracy: 0.4785
+Epoch 7/10
+897/897 [==============================] - 89s 99ms/step - loss: 1.3338 - accuracy: 0.4964
+Epoch 8/10
+897/897 [==============================] - 90s 100ms/step - loss: 1.2997 - accuracy: 0.5084
+Epoch 9/10
+897/897 [==============================] - 88s 98ms/step - loss: 1.2608 - accuracy: 0.5236
+Epoch 10/10
+897/897 [==============================] - 93s 104ms/step - loss: 1.2283 - accuracy: 0.5383
+225/225 [==============================] - 43s 190ms/step
+Accuracy: 0.4460852605182502
+
+Optiuni
+1. Clasificare emoji
+2. Pre-antrenat pentru clasificare emotii
+3. Antrenare model pentru clasificare emotii
+Alege :
